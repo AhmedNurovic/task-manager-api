@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/go-%3E%3D1.21-blue.svg)](https://golang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/ahmednurovic/task-manager-api/actions/workflows/go.yml/badge.svg)](https://github.com/yourusername/task-manager-api/actions)
+[![Build Status](https://github.com/ahmmednurovic/task-manager-api/actions/workflows/go.yml/badge.svg)](https://github.com/ahmmednurovic/task-manager-api/actions)
 
 A modern task management REST API built with Golang, featuring JWT authentication, PostgreSQL storage, and Docker support. Perfect for learning Golang backend development or as a starter for your next project!
 
@@ -37,7 +37,7 @@ A modern task management REST API built with Golang, featuring JWT authenticatio
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-manager-api.git
+git clone https://github.com/ahmmednurovic/task-manager-api.git
 cd task-manager-api
 
 # Copy environment file
