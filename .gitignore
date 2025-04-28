@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build directories
+/bin/
+/build/
+
+# Test binary, coverage, and profiles
+*.test
+*.out
+*.coverprofile
+coverage.out
+
+# Dependency directories (if not using Go modules)
+/vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# IDE settings
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Node modules (if accidentally added)
+node_modules/
